@@ -1,4 +1,4 @@
-# Competitor Sales Analysis
+## Competitor Sales Analysis
 
 #### This repo provides a smart solution to infer competitor's sales data based on an optimization algorithm.
 
