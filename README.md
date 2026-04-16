@@ -4,4 +4,4 @@
 
 #### This repo provides a smart solution to infer competitors' sales data using an optimization algorithm.
 
-##### View Excel sheets and [Code (CompetitorSalesAnalysis.ipynb)](CompetitorSalesAnalysis.ipynb) for the detailed results and methods.
+#### View Excel sheets and [Code (CompetitorSalesAnalysis.ipynb)](CompetitorSalesAnalysis.ipynb) for the detailed results and methods.
